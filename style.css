@@ -1,0 +1,56 @@
+body
+{
+	background-color: rgb(75, 75, 75);
+}
+
+h1
+{
+	color: rgb(18, 117, 5);
+	text-align: center;
+}
+
+p
+{
+	color: rgb(12, 80, 3);
+	text-align: center;
+}
+
+#box
+{
+	width: 400px ;
+	height: 0 auto;
+	background-color: rgb(85, 85, 85);
+	border: 2px solid black;
+	margin: 0 auto;
+}
+
+input
+{
+		margin-left: 100px;
+		background-color: rgb(75, 75, 75);
+		color: black;
+}
+
+button
+{
+		margin: 0 auto;
+		text-align: center;
+		background-color: rgb(75, 75, 75);
+		color: rgb(18, 117, 5);
+}
+
+#canvas
+{
+	width : 400px;
+	height: 400px;
+
+	background-color: rgb(75, 75, 75);
+	margin: 0 auto;
+}
+
+#output
+{	
+	background-color: rgba(0, 0, 0, 0.466);
+	color: rgb(30, 255, 0);
+	text-align: center;
+}
